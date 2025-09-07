@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "John Electrician",
+    "category": "Electrician",
+    "location": "Downtown",
+    "rating": 4.8,
+    "bio": "Expert in residential and commercial electrical services.",
+    "services": ["Wiring", "Lighting", "Repairs"],
+    "reviews": [
+      {"user": "Alice", "rating": 5, "comment": "Quick and professional!"},
+      {"user": "Bob", "rating": 4, "comment": "Solved my issue efficiently."}
+    ],
+    "picture": "/assets/john-electrician.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Sarah Plumber",
+    "category": "Plumber",
+    "location": "Uptown",
+    "rating": 4.6,
+    "bio": "Reliable plumbing solutions for homes and businesses.",
+    "services": ["Leak Repair", "Pipe Installation", "Drain Cleaning"],
+    "reviews": [
+      {"user": "Charlie", "rating": 5, "comment": "Very knowledgeable."},
+      {"user": "Dana", "rating": 4, "comment": "Great service!"}
+    ],
+    "picture": "/assets/sarah-plumber.jpg"
+  }
+]

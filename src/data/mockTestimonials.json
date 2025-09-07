@@ -1,0 +1,12 @@
+[
+  {
+    "user": "Emily",
+    "comment": "Found a great plumber in minutes! Highly recommend.",
+    "rating": 5
+  },
+  {
+    "user": "Michael",
+    "comment": "The electrician was very professional and quick.",
+    "rating": 4.5
+  }
+]

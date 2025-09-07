@@ -1,0 +1,7 @@
+[
+  {"id": "1", "name": "Electrician", "icon": "bolt"},
+  {"id": "2", "name": "Plumber", "icon": "water"},
+  {"id": "3", "name": "Carpenter", "icon": "hammer"},
+  {"id": "4", "name": "Painter", "icon": "paintbrush"},
+  {"id": "5", "name": "Cleaner", "icon": "broom"}
+]
